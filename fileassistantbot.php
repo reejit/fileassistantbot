@@ -10,7 +10,7 @@
  * http://nimah79.ir.
  */
 define('FILES_PATH', __DIR__.'/stuff');
-define('WEBSERVER_BASE_URL', 'http://lolfiles.com');
+define('WEBSERVER_BASE_URL', 'http://lolfiles.herokuapp.com');
 define('FILES_EXPIRE_TIME', 120 * 18000); // in seconds
 
 set_time_limit(0);
