@@ -1,1 +1,1 @@
-worker: php fileassistantbot.php
+web: php fileassistantbot.php
